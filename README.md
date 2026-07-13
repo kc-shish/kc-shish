@@ -69,8 +69,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🌫️ AeroSight AQI Forecast | Machine Learning model for air quality prediction |
-| 💼 Fake Job Detection | NLP-based fake job posting classifier |
-| 📚 RAG Document QA | Retrieval-Augmented Generation application |
-| 📄 Resume Analyzer | AI-powered resume analysis using NLP |
-| 🤖 LLM Experiments | Exploring Hugging Face and OpenAI APIs |
+| 🤖 LLM Experiments | Exploring Hugging Face Transformers and OpenAI APIs |
+| 💼 Fake Job Detection | NLP-based fake job posting classification using Machine Learning |
+| 🛰️ Satellite Image Detection | Land-use image classification using PyTorch and Transfer Learning (ResNet-18) |
+| 🌫️ AeroSight AQI Forecast | End-to-end air quality prediction and monitoring using Machine Learning and Streamlit |
