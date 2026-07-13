@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Learner;Natural+Language+Processing;Exploring+Generative+AI+%26+RAG;Always+Learning+Something+New" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kc-shish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -48,6 +43,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 </p>
 
 ### AI & Machine Learning
