@@ -43,7 +43,11 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,jupyter,mysql&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,mysql&perline=3" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### AI & Machine Learning
