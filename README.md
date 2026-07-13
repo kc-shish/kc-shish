@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar Chetan</h1>
-<h3 align="center">AI Engineer | Machine Learning Enthusiast | Full Stack Developer</h3>
+<h3 align="center">AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Building+AI+Applications;LLMs+%7C+RAG+%7C+AI+Agents;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Learner;Natural+Language+Processing;Exploring+Generative+AI+%26+RAG;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
@@ -13,19 +13,19 @@
 
 ## 🚀 About Me
 
-- 🤖 AI Engineer passionate about solving real-world problems using Artificial Intelligence
-- 🌱 Currently learning **LLMs, RAG, AI Agents, MLOps & Deep Learning**
-- 💻 Building AI-powered applications with Python and modern web technologies
-- 🧠 Interested in Generative AI, Computer Vision, NLP, and Automation
-- 📚 Always exploring new technologies
-- 🎯 Goal: Build impactful AI products used by millions
+- 🎓 Passionate about Artificial Intelligence and Machine Learning
+- 🌱 Currently learning **Generative AI, Retrieval-Augmented Generation (RAG), and LangChain**
+- 🤖 Interested in **Machine Learning, Deep Learning, NLP, and LLMs**
+- 💡 Enjoy building AI projects to solve real-world problems
+- 📖 Continuously improving my skills through hands-on projects
+- 🎯 Goal: Become an AI Engineer specializing in Generative AI
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/aashish-kumar-chetan-9a906a396/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -40,26 +40,27 @@
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,git,github,linux,bash,vscode,java,cpp,html,css,javascript,tailwind&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,mysql,jupyter&perline=6"/>
 </p>
 
----
-
-# 🤖 AI & Data Science
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
+### AI & Machine Learning
 - Machine Learning
 - Deep Learning
-- Computer Vision
-- Natural Language Processing
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
 - Generative AI
-- Prompt Engineering
-- MLOps
+- Retrieval-Augmented Generation (Learning)
+
+### Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Hugging Face Transformers
+- LangChain (Learning)
 
 ---
 
@@ -67,68 +68,8 @@
 
 | Project | Description |
 |---------|-------------|
-| 🤖 AI Chatbot | Chatbot powered by OpenAI & LangChain |
-| 📄 Resume Analyzer | AI Resume Screening System |
-| 🧠 RAG Assistant | Retrieval-Augmented Generation chatbot |
-| 🎥 Face Recognition | Real-time Face Recognition using OpenCV |
-| 🖼️ Image Classifier | Deep Learning Image Classification |
-| 🌐 AI SaaS | Full Stack AI Web Application |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kc-shish&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc-shish&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kc-shish&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kc-shish&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kc-shish&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```python
-class AIEngineer:
-
-    def __init__(self):
-        self.name = "Aashish Kumar Chetan"
-        self.role = "AI Engineer"
-        self.language = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "C++"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub Profile! ⭐")
-
-me = AIEngineer()
-me.say_hi()
+| 🌫️ AeroSight AQI Forecast | Machine Learning model for air quality prediction |
+| 💼 Fake Job Detection | NLP-based fake job posting classifier |
+| 📚 RAG Document QA | Retrieval-Augmented Generation application |
+| 📄 Resume Analyzer | AI-powered resume analysis using NLP |
+| 🤖 LLM Experiments | Exploring Hugging Face and OpenAI APIs |
