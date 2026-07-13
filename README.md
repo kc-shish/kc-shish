@@ -43,7 +43,7 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,mysql,jupyter&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,jupyter,mysql&perline=4" />
 </p>
 
 ### AI & Machine Learning
