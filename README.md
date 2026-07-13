@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Learner;Natural+Language+Processing;Exploring+Generative+AI+%26+RAG;Always+Learning+Something+New" />
 </p>
+
 ---
 
 ## 🚀 About Me
